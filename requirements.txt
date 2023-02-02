@@ -66,5 +66,5 @@ SQLAlchemy==1.3.6
 typing==3.6.6
 urllib3==1.24.2
 virtualenv==16.4.1
-Werkzeug==0.15.1
+Werkzeug==0.15.5
 -e git+https://github.com/yetifarmcreative/yeti-toolkit.git@e24553b608a0bcf11e7ea15b5832c36d0a71daef#egg=yeti_toolkit
